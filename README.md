@@ -14,5 +14,5 @@ The project involves the following steps:
 - `Model Comparison:- ` The performance of each model is compared based on accuracy, and we determine which model works best for this dataset.
 
 ## **Conclusion**
-This project demonstrates the application of multiple classification algorithms on the Breast Cancer dataset. Each model is evaluated, and we compare their accuracy to determine the best performer.
+This project demonstrates the application of multiple classification algorithms on the Breast Cancer dataset. Each model is evaluated, and I compare their accuracy to determine the best performer.
 
